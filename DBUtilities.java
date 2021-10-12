@@ -14,3 +14,4 @@ else:
 
 print(c1.name)
 print(c2.name)
+print(c3,name)
